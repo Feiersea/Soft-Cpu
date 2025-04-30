@@ -1,4 +1,4 @@
-# 🧠 8-Bit Soft CPU
+#  8-Bit Soft CPU
 
 Welcome to the 8-bit soft CPU project! This is a simple yet expandable CPU core written in Verilog, designed to help you learn CPU architecture, digital logic, and FPGA design by building everything from scratch.
 
