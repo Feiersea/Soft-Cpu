@@ -13,7 +13,7 @@ This CPU features:
 - Separate instruction and data memory
 - Support for branching, memory load/store, and basic arithmetic
 
-Ideal for use in FPGA boards such as the **Arty S7-25** or **Altera DE2**.
+Ideal for use in FPGA boards such as the **Arty S7-25** 
 
 ---
 
