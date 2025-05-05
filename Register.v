@@ -2,8 +2,8 @@ module Register (
     input wire enable,
     input wire reset,
     input wire clk,
-    input wire reg_in1,
-    output reg reg_out1
+    input wire [7:0] reg_in1,
+    output reg [7:0] reg_out1
 );
     always @ (posedge clk or negedge reset) begin
         if (!reset)
